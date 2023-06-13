@@ -16,6 +16,9 @@ $ git clone https://github.com/slakovic/The-Maze.git
 * Ichendu Achinewhu
 * Alade Oluwafemi Ayodimeji
 
+## Article post
+* https://www.linkedin.com/pulse/maze-game-project-alx-software-engineering-oluwafemi-alade/
+
 ## Collaborators links
 * Ichendu Achinewhu	 https://github.com/ichendua	https://www.linkedin.com/in/global-access-mobile-08888192	https://twitter.com/Ichendu
 
