@@ -17,7 +17,7 @@ $ git clone https://github.com/slakovic/The-Maze.git
 * Alade Oluwafemi Ayodimeji
 
 ## Collaborators links
-* Ichendu Achinewhu	 https://github.com/ichendua
+* Ichendu Achinewhu	 https://github.com/ichendua	https://www.linkedin.com/in/global-access-mobile-08888192	https://twitter.com/Ichendu
 
 * Alade Oluwafemi Ayodimeji	https://github.com/slakovic	https://twitter.com/AladefmA	https://www.linkedin.com/in/oluwafemi-alade-07a489aa/
 
